@@ -59,13 +59,14 @@ severe the accident could have been (due to other factors involved in the accide
 **Description:** Detailed description of how the accident happened.
 
 
-## Exploratory Data Analysis
+## Observations
 
-### Univariate Analysis
+Highlights of EDA are as noted below:
+
+
 
 
                                           
 
-![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/mostly_affected_country1.png)  
 
 
