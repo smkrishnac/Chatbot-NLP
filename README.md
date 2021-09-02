@@ -125,6 +125,14 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 - TF-IDF
 
 
+1. Accident Level
+a) Count Vectorizer
+
+|Score\Model\|SVC|Random Forest|Gradient Boost|XG Boost|
+
+b) TF-IDF
+
+
 | Text Preprocessing Technique | #1  | #2  |
 | :-----: | :-: | :-: |
 | Seconds | 301 | 283 |
