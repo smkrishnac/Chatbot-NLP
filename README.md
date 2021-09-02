@@ -54,3 +54,5 @@ severe the accident could have been (due to other factors involved in the accide
 **Critical Risk:** Some description of the risk involved in the accident
 
 **Description:** Detailed description of how the accident happened.
+
+## Exploratory Data Analysis
