@@ -89,6 +89,14 @@ Distribution of characters of all sentences
 
 Distribution of words appearing in all descriptions
 
+![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/average_word_length.png)
+
+Average Word Length
+
+![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/bigram_analysis.png)
+
+Bigram analysis
+
 
 
 
