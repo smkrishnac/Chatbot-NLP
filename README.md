@@ -128,7 +128,7 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 ## Model Scores
 
 ### 1. Accident Level
-  - Count Vectorizer
+  - **Count Vectorizer**
 
 | Score-Model | SVC | Random Forest | Gradient Boost | XG Boost |
  | :---: | :---: | :---: | :---: | :---: |
