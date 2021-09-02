@@ -163,7 +163,9 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 
 
 
-
+| Accident Level | Potential Accident Level |
+| :---: | :---: |
+| 78% | 30% |
 
 
 
