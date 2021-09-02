@@ -61,7 +61,7 @@ severe the accident could have been (due to other factors involved in the accide
 
 ## Exploratory Data Analysis
 
-#### Univariate Analysis
+### Univariate Analysis
 
 **Affected Countries**
 
