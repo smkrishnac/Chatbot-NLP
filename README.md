@@ -63,7 +63,9 @@ severe the accident could have been (due to other factors involved in the accide
 
 Highlights of EDA are as noted below:
 - Most accidents happen in Country_01 (59.06%)
-- and how
+- Mining sector has maximum accidents with 241 incidents (56.71%)
+- Maximum no of accidents belong to "Accident Level I" at 74.35%
+- Top contributing factor for accidents is classified as "Others" 
 
 
 
