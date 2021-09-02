@@ -97,7 +97,13 @@ Average Word Length
 
 Bigram analysis
 
+https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/trigram_analysis.png
 
+Trigram analysis
+
+https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/4gram_analysis.png
+
+Four gram analysis
 
 
 
