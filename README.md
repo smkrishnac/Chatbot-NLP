@@ -64,5 +64,6 @@ severe the accident could have been (due to other factors involved in the accide
 ### Univariate Analysis
 
 Affected Countries
+
 ![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/mostly_affected_country1.png)
 
