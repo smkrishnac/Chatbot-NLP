@@ -3,6 +3,7 @@
 To build a chatbot employing ML/DL techniques that can determine the accident level &
 potential level involved in any accident based on the text description.
 
+
 ## Problem Statement & Abstract
 
 With the advancement of technology, manual labour requirement in industries has reduced
@@ -21,9 +22,11 @@ type of employees being injured and so on. We also aim to develop a chatbot appl
 using natural language processing to classify the accident into various critical risks by looking
 at the description of the accident.
 
+
 ## Domain
 
 Industrial Safety/NLP Chatbot
+
 
 ## Dataset 
 [Link](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/data.csv)
@@ -54,5 +57,6 @@ severe the accident could have been (due to other factors involved in the accide
 **Critical Risk:** Some description of the risk involved in the accident
 
 **Description:** Detailed description of how the accident happened.
+
 
 ## Exploratory Data Analysis
