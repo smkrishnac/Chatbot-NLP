@@ -78,7 +78,9 @@ Before using NLP model, the below text preprocessing steps were employed:
 - Removing punctuations
 
 
-#### Maximum length of sentence is 05
+## Observations after Data Preprocessing
+
+Maximum length of sentence is 95
 
 
 
