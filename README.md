@@ -184,6 +184,10 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 
 ![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/score_potential_accident_level.png)
 
+## Result
+
+From the tables and graphical representations seen above, SVC model using TF-IDF text preprocessing yields best results for both accident level and potential accident level variables, 78.12% and 43.75% respectively. This model is chosen.
+
 
                                           
 
