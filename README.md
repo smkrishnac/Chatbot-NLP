@@ -59,13 +59,18 @@ severe the accident could have been (due to other factors involved in the accide
 **Description:** Detailed description of how the accident happened.
 
 
-## Observations
+## Observations of EDA
 
-Highlights of EDA are as noted below:
-- Most accidents happen in Country_01 (59.06%)
+Some highlights of Exploratory Data Analysis are as noted below:
+- "Country_01" has maximum percentage of accidents (59.06%)
 - Mining sector has maximum accidents with 241 incidents (56.71%)
 - Maximum no of accidents belong to "Accident Level I" at 74.35%
 - Top contributing factor for accidents is classified as "Others" 
+
+## Data Preprocessing
+
+
+
 
 
 
