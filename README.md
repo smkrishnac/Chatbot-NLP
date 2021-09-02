@@ -85,6 +85,12 @@ Before using NLP model, the below text preprocessing steps were employed:
 
 Distribution of characters of all sentences
 
+![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/words_in_description.png)
+
+Distribution of words appearing in all descriptions
+
+
+
 
 
 
