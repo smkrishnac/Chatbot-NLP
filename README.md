@@ -143,17 +143,22 @@ a) Count Vectorizer
  
  
  
+2. Potential Accident Level
+a) Count Vectorizer
+| Score-Model | SVC | Random Forest | Gradient Boost | XG Boost |
+ | :---: | :---: | :---: | :---: | :---: |
+ | Training Score | 99.72% | 99.72% | 99.72% | 19.94% |
+ | Test Score | 39.06% | 37.50% | 42.19% | 40.62% |
+
 
 b) TF-IDF
 
+| Score-Model | SVC | Random Forest | Gradient Boost | XG Boost |
+ | :---: | :---: | :---: | :---: | :---: |
+ | Training Score | 99.72% | 99.72% | 99.72% | 90.86% |
+ | Test Score | 43.75% | 35.94% | 43.75% | 39.06% |
 
-| Text Preprocessing Technique | #1  | #2  |
-| :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
 
