@@ -83,6 +83,9 @@ Before using NLP model, the below text preprocessing steps were employed:
 Maximum length of sentence is 95
 
 
+![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/distribution_characters_sentences.png)
+
+
 
 
 
