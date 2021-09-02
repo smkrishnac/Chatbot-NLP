@@ -20,3 +20,9 @@ Brazilian industries and find out the top reasons for industrial accidents, natu
 type of employees being injured and so on. We also aim to develop a chatbot application
 using natural language processing to classify the accident into various critical risks by looking
 at the description of the accident.
+
+## Domain
+
+Industrial Safety/NLP Chatbot
+
+## Dataset
