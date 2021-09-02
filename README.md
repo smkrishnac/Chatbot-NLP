@@ -63,5 +63,5 @@ severe the accident could have been (due to other factors involved in the accide
 
 ### Univariate Analysis
 
-**Affected Countries**
+Affected Countries
 
