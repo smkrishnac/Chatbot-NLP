@@ -110,16 +110,17 @@ Four gram analysis
 
 For modelling both machine learning and deep learing algorithms have been used, compared performances of all the models and chosen the model with highest score. Objective is predict both ‘Accident Level’ & ‘Potential Accident Level’ labels, models for both these variables are generated and model giving best accuracy scores for both these variables are chosen.
 
-Machine Learning Models include
+**Machine Learning Models**
 - Support Vector Classification
 - Random Forest
 - Gradient Boost
 - XG Boost
 
 
-Deep Learning model used is Long Short Term Memory(LSTM) architecture with Word2Vec
+**Deep Learning** 
+Long Short Term Memory(LSTM) architecture with Word2Vec
 
-Text Preprocessing Techniques used
+**Text Preprocessing Techniques**  
 - CountVectorizer
 - TF-IDF
 
