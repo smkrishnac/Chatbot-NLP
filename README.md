@@ -43,3 +43,14 @@ different nations. Each observation in the dataset corresponds to one accident. 
 
 **Accident level:** I to VI, it registers how severe the accident was (I means not severe but VI
 means very severe)
+
+**Potential Accident Level:** Depending on the Accident Level, the database also registers how
+severe the accident could have been (due to other factors involved in the accident)
+
+**Genre:** If the person is male or female
+
+**Employee or Third Party:** If the injured person is an employee or a third party
+
+**Critical Risk:** Some description of the risk involved in the accident
+
+**Description:** Detailed description of how the accident happened.
