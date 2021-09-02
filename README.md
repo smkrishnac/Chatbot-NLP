@@ -25,11 +25,15 @@ at the description of the accident.
 
 Industrial Safety/NLP Chatbot
 
-## Dataset
+## Dataset 
+[Link](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/data.csv)
+
 
 The dataset is from one of the biggest industries in Brazil, having 12 different plants in 3
 different nations. Each observation in the dataset corresponds to one accident.
 
-[Link](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/data.csv)
+
+The details of the different columns are as below:
+
 
 **Data** 
