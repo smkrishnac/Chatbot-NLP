@@ -34,6 +34,7 @@ different nations. Each observation in the dataset corresponds to one accident. 
 
 
 **Data:** Timestamp or time/date information
+
 **Countries:** Country where the accident occurred (anonymised)
 Local: City where the manufacturing plant is located (anonymised)
 Industry sector: Sector which the plant belongs to
