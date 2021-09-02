@@ -31,4 +31,6 @@ The dataset is from one of the biggest industries in Brazil, having 12 different
 different nations. Each observation in the dataset corresponds to one accident.
 The details of the different columns are as below:
 
+[Link](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/data.csv)
+
 **Data** 
