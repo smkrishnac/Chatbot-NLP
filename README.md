@@ -126,7 +126,7 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 
 
 | Attempt | #1  | #2  |
-| :-----: | :-: | :-: |
+| :----- | :-: | :-: |
 | Seconds | 301 | 283 |
 
 
