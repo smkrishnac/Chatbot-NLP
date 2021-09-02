@@ -62,6 +62,8 @@ severe the accident could have been (due to other factors involved in the accide
 ## Observations
 
 Highlights of EDA are as noted below:
+- Most accidents happen in Country_01 (59.06%)
+- and how
 
 
 
