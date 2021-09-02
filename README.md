@@ -125,7 +125,9 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 - TF-IDF
 
 
-
+| Attempt | #1  | #2  |
+| :-----: | :-: | :-: |
+| Seconds | 301 | 283 |
 
 
 
