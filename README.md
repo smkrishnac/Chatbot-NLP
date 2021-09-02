@@ -165,11 +165,23 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 
 
 
-### Deep Learning
+### LSTM with Word2Vec
+
 | Accident Level | Potential Accident Level |
 | :---: | :---: |
 | 78% | 30% |
 
+
+## Score Comparision
+
+**Accident Level**
+
+![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/score_accident_level.png)
+
+
+**Potential Accident Level**
+
+![alt text](https://github.com/MarurSrikanta/Chatbot-NLP/blob/main/Images/score_potential_accident_level.png)
 
 
                                           
