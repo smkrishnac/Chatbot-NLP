@@ -132,6 +132,17 @@ a) Count Vectorizer
  | :---: | :---: | :---: | :---: | :---: |
  | Training Score | 99.45% | 99.45% | 99.45% | 91.97% |
  | Test Score | 78.12% | 78.12% | 73.44% | 73.44% |
+ 
+ 
+ b) TF-IDF
+ 
+ | Score-Model | SVC | Random Forest | Gradient Boost | XG Boost |
+ | :---: | :---: | :---: | :---: | :---: |
+ | Training Score | 99.17% | 99.45% | 99.45% | 95.57% |
+ | Test Score | 78.12% | 78.12% | 73.44% | 76.56% |
+ 
+ 
+ 
 
 b) TF-IDF
 
