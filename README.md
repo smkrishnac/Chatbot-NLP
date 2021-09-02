@@ -33,4 +33,4 @@ The dataset is from one of the biggest industries in Brazil, having 12 different
 different nations. Each observation in the dataset corresponds to one accident. Data attributes are as below:
 
 
-**Data** 
+**Data** Timestamp or time/date information
