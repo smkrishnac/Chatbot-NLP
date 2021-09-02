@@ -71,7 +71,12 @@ Some highlights of Exploratory Data Analysis are as noted below:
 
 Before using NLP model, the below text preprocessing steps were employed:
 - **Word Tokenization** to tokenize text into words
-- Lemmatisation was preferred over Stemming to remove inflectional endings and 
+- **Lemmatization** was preferred over Stemming to remove inflectional endings and return base form of dictionary words
+- **Removing Stopwords** to allow the model to focus on contextual text
+- Changing text case to lower
+- Removing tokens which are not alphanumeric
+- Removing punctuations
+
 
 
 
