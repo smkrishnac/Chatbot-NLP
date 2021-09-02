@@ -129,7 +129,7 @@ Long Short Term Memory(LSTM) architecture with Word2Vec
 a) Count Vectorizer
 
 | Score-Model | SVC | Random Forest | Gradient Boost | XG Boost |
- | --- | --- | --- | --- | --- | --- | --- | 
+ | --- | --- | --- | --- | --- |
  | Training Score | 99.45% | 99.45% | 99.45% | 91.97% |
 
 b) TF-IDF
