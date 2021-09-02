@@ -30,10 +30,7 @@ Industrial Safety/NLP Chatbot
 
 
 The dataset is from one of the biggest industries in Brazil, having 12 different plants in 3
-different nations. Each observation in the dataset corresponds to one accident.
-
-
-The details of the different columns are as below:
+different nations. Each observation in the dataset corresponds to one accident. Data attributes are as below:
 
 
 **Data** 
